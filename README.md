@@ -8,16 +8,15 @@ The Sentimental_analysis_using_word2vec.ipynb file uses Word Embedding with Word
 
 The initial_test.ipynb file uses word embedding with Glove and again uses Bi-Directional LSTM to train the model on the ISEAR dataset
 
-
-modules that are required to be installed in the system : 
-=> pip install numpy
-=> pip install matplotlib
-=> pip install seaborn
-=> pip install nltk
-=> pip install scikit-learn
-=> pip install tensorflow
-=> pip install gensim
+modules that are required to be installed in the system 
+1) pip install numpy
+2) pip install matplotlib
+3) pip install seaborn
+4) pip install nltk
+5) pip install scikit-learn
+6) pip install tensorflow
+7) pip install gensim
 
 Glove requirements : 
-=> https://nlp.stanford.edu/projects/glove/
-=> Select glove.42B.300d.zip
+1) https://nlp.stanford.edu/projects/glove/
+2) Select glove.42B.300d.zip
