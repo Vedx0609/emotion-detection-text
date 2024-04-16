@@ -8,7 +8,7 @@ The Sentimental_analysis_using_word2vec.ipynb file uses Word Embedding with Word
 
 The initial_test.ipynb file uses word embedding with Glove and again uses Bi-Directional LSTM to train the model on the ISEAR dataset
 
-modules that are required to be installed in the system 
+Modules that are required to be installed in the system :
 1) pip install numpy
 2) pip install matplotlib
 3) pip install seaborn
