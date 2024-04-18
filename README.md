@@ -4,9 +4,9 @@ Created during my ML workshop with CIE in PES University.
 
 The backup file is using Models Like Random Forest , SVM , Logistic Regression and a few other models which is trained on the twitter dataset split into train , test and validation.
 
-The Sentimental_analysis_using_word2vec.ipynb file uses Word Embedding with Word2Vec and uses Bi-Directional LSTM to train the model on the ISEAR dataset.
+The Final.ipynb file uses Word Embedding with Word2Vec and uses LSTM to train the model on the ISEAR dataset.
 
-The initial_test.ipynb file uses word embedding with Glove and again uses Bi-Directional LSTM to train the model on the ISEAR dataset
+The initial_test.ipynb file uses word embedding with Glove and again uses LSTM to train the model on the ISEAR dataset
 
 Modules that are required to be installed in the system :
 1) pip install numpy
